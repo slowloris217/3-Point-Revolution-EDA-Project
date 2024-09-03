@@ -12,6 +12,7 @@ Using powerful tools such as beautifulSoup and Selenium in Python to webscrape a
 
 ## Dashboard
 The dashboard was created using tableau public.
+
 The dashboard can be found here: https://public.tableau.com/app/profile/michael.do4230/viz/Basketball_dashboard/FinalDash#1
 
 ## Files
