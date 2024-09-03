@@ -19,8 +19,4 @@ The dashboard can be found here: https://public.tableau.com/app/profile/michael.
 The repository contains the following files:
 - a .ipynb notebook for webscraping (nba_webscraping.ipynb)
 - a .ipynb notebook for data cleaning and merging dataframes (data_cleaning.ipynb)
-- a csv file containing the data for team stats per game (team_stats.csv)
-- a csv file containing the data for total team stats per season (total_stats.csv)
-- a csv file containing the data for Champions for each year (champions.csv)
-- a csv file containing the data for team standings each year (team_rank.csv) 
 - a csv file containing all the relevant NBA basketball stats merged together (all_data.csv)
