@@ -13,7 +13,7 @@ Using powerful tools such as beautifulSoup and Selenium in Python to webscrape a
 ## Dashboard
 The dashboard can be found here: https://public.tableau.com/app/profile/michael.do4230/viz/Basketball_dashboard/FinalDash#1
 
-
+## Files
 The repository contains the following files:
 - a .ipynb notebook for webscraping (nba_webscraping.ipynb)
 - a .ipynb notebook for data cleaning and merging dataframes (data_cleaning.ipynb)
