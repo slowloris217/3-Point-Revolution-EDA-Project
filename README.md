@@ -11,7 +11,7 @@ Data Source: https://www.basketball-reference.com/
 Using powerful tools such as beautifulSoup and Selenium in Python to webscrape all the data needed to complete this project.
 
 ## Dashboard
-The dashboard was created using tableau public.
+The interactive dashboard was created using Tableau Public, a free cloud-based version of Tableau's data visualization software.
 
 The dashboard can be found here: https://public.tableau.com/app/profile/michael.do4230/viz/Basketball_dashboard/FinalDash#1
 
