@@ -3,7 +3,8 @@
 The "Three-Point Revolution" project aims to explore one of the most significant strategic shifts in the history of the NBA. Over the past few decades, the NBA has witnessed a transformation in how the game is played, with teams increasingly relying on three-point shooting as their main offensive strategies. Through this project, we will leverage historical NBA data to conduct a comprehensive exploratory data analysis (EDA) and create an interactive dashboard to better visualize the data. 
 
 ## Data Description 
-The project will use data obtained through web scraping from a source known as Basketball-Reference. Basketball-Reference is a comprehensive website with a vast amount of historical NBA data, team stats, team rankings, and more.  
+The project will use data obtained through web scraping from a source known as Basketball-Reference. Basketball-Reference is a comprehensive website with a vast amount of historical NBA data, team stats, team rankings, and more. 
+Data Source: https://www.basketball-reference.com/
 
 ## Webscraping
 Using powerful tools such as beautifulSoup and Selenium in Python to webscrape all the data needed to complete this project.
