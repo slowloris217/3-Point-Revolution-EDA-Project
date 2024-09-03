@@ -4,6 +4,7 @@ The "Three-Point Revolution" project aims to explore one of the most significant
 
 ## Data Description 
 The project will use data obtained through web scraping from a source known as Basketball-Reference. Basketball-Reference is a comprehensive website with a vast amount of historical NBA data, team stats, team rankings, and more. 
+
 Data Source: https://www.basketball-reference.com/
 
 ## Webscraping
